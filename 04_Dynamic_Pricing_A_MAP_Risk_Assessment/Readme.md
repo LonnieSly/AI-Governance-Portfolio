@@ -65,4 +65,4 @@ The progression across the portfolio follows the RMF lifecycle:
 
 ## Artifact
 
-**→ [View the Full MAP Risk Assessment](./04a_MAP_Risk_Assessment.md)**
+**→ [View the Full MAP Risk Assessment](./04_MAP_Risk_Assessment.md)**
