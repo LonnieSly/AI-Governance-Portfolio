@@ -6,7 +6,7 @@ This project demonstrates a complete NIST AI RMF audit engagement across two pha
 
 - **Phase 1 — MAP (Map Risk Assessment):** Identifies and contextualizes bias risks specific to a dynamic pricing model before any measurement begins
 - **Phase 2 — MEASURE (Audit Report):** Quantitatively tests whether identified risks are materializing through drift analysis and bias detection
-- - **Phase 3 — MEASURE (Audit Report):** Quantitatively tests whether identified risks are materializing through drift analysis and bias detection
+- **Phase 3 — Manage (Dynamic Pricing AI — Disparate Impact Drift Response Protocol):** covers the complete incident lifecycle from trigger detection through controlled reactivation
 
 ---
 
