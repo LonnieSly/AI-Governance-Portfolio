@@ -41,23 +41,6 @@ Sentiment Analysis · Predictive Modeling
 
 ## Projects
 
-### Project 4 — Dynamic Pricing AI Audit
-**The finding:** A dynamic pricing model passed every compliance 
-threshold at point-in-time review. Income-correlated drift 
-analysis revealed r = −0.89 — projecting a compliance breach 
-within two quarters. The model was flagged as a **future 
-violation despite a current passing result.**
-
-Verdict: Conditional Pass with mandatory remediation timeline.
-
-This audit demonstrates why threshold compliance is necessary 
-but not sufficient. Trajectory matters more than the snapshot.
-
-Includes: Python audit engine (`drift_and_bias_analysis.py`), 
-MAP Risk Assessment, and MEASURE Audit Report with NIST-mapped 
-findings and remediation requirements.
-
----
 
 ### Project 1 — AI Risk Register
 Eight-risk assessment of an LLM-powered customer service bot 
@@ -90,3 +73,27 @@ six governance domains. Designed to surface vendor
 accountability gaps, data handling risks, and operational 
 continuity concerns before a contract is signed — not after 
 an incident.
+
+---
+
+### Project 4 — Dynamic Pricing AI Audit
+**The finding:** A dynamic pricing model passed every compliance 
+threshold at point-in-time review. Income-correlated drift 
+analysis revealed r = −0.89 — projecting a compliance breach 
+within two quarters. The model was flagged as a **future 
+violation despite a current passing result.**
+
+Verdict: Conditional Pass with mandatory remediation timeline.
+
+This audit demonstrates why threshold compliance is necessary 
+but not sufficient. Trajectory matters more than the snapshot.
+
+Includes: Python audit engine (`drift_and_bias_analysis.py`), 
+MAP Risk Assessment, and MEASURE Audit Report with NIST-mapped 
+findings and remediation requirements.
+
+Includes: Python audit engine (`drift_and_bias_analysis.py`),
+MAP Risk Assessment, MEASURE Audit Report, and Drift Response
+Protocol (IRP-DYN-001) — governing detection through reactivation.
+
+---
