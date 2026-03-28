@@ -6,6 +6,7 @@ This project demonstrates a complete NIST AI RMF audit engagement across two pha
 
 - **Phase 1 — MAP (Map Risk Assessment):** Identifies and contextualizes bias risks specific to a dynamic pricing model before any measurement begins
 - **Phase 2 — MEASURE (Audit Report):** Quantitatively tests whether identified risks are materializing through drift analysis and bias detection
+- - **Phase 3 — MEASURE (Audit Report):** Quantitatively tests whether identified risks are materializing through drift analysis and bias detection
 
 ---
 
@@ -26,6 +27,17 @@ Answers the critical questions: *Who is affected? What could go wrong? How would
 Implements the auditor tests defined in MAP. Includes drift analysis engine, bias measurement reports, and remediation timeline.
 
 **→ [Go to MEASURE Audit Report](./Measure/README.md)**
+
+---
+
+ ### Manage/
+**NIST AI RMF MANAGE Function** — Incident response and containment
+
+Governs the response when the MEASURE finding activates in production.
+Covers command structure, 2-hour response runbook, containment actions,
+documentation standards, and return-to-production criteria.
+
+**→ [Go to Drift Response Protocol](./Manage/README.md)**
 
 ---
 
